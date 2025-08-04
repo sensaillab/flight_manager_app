@@ -1,0 +1,13 @@
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/dark_plane.png
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/assets/videos/night_plane.mp4
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Level4_Cp/Mobile Graphical Interface/final_project/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
