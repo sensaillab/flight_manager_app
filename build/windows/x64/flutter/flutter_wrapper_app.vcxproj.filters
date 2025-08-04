@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7482147A-3C45-3D26-A921-709711E39305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{40BC9407-528A-3CEC-934C-0F688E942F2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

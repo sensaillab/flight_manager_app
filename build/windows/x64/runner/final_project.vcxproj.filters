@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\Level4_Cp\Mobile Graphical Interface\final_project\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{40BC9407-528A-3CEC-934C-0F688E942F2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
